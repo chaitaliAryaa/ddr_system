@@ -155,19 +155,4 @@ python run_cli.py \
 
 ---
 
-## 🎥 Loom Video Script
 
-**[0:00-0:30] What I built:**
-"I built an AI system that takes two PDF documents — an inspection report and a thermal report — and automatically generates a structured Detailed Diagnostic Report."
-
-**[0:30-1:30] How it works:**
-1. Show the upload UI
-2. Demonstrate uploading both PDFs
-3. Click generate and show the progress
-4. Show the downloaded .docx with images
-
-**[1:30-2:30] Architecture walkthrough:**
-Show the 4 files and explain each module briefly.
-
-**[2:30-3:30] Limitations + improvements:**
-Mention the edge cases table above.
